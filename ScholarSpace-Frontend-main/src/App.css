@@ -670,8 +670,7 @@ button:hover {
 /* ==========================================
 SCHOLARMATCH — PROFESSIONAL DESIGN THEME
 ========================================== */
-
- {
+:root {
 --primary: #1d4ed8;
 --primary-hover: #1e40af;
 --navy: #142b4a;
@@ -684,8 +683,7 @@ SCHOLARMATCH — PROFESSIONAL DESIGN THEME
 --success: #15803d;
 --radius: 16px;
 }
-
-{
+*, *::before, *::after {
 box-sizing: border-box;
 }
 

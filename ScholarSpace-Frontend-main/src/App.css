@@ -2649,7 +2649,7 @@ button.sidebar-logout:hover {
   }
 }
 
-* Match score progress bar */
+/* Match score progress bar */
 .scholarship-modal .modal-match-score {
   padding: 22px;
   margin: 22px 0;
@@ -4097,7 +4097,7 @@ button.sidebar-logout:hover {
   }
 }
 
-* ===== ScholarSpace: refined login layout ===== */
+/* ===== ScholarSpace: refined login layout ===== */
 
 .auth-page {
   min-height: 100vh;
@@ -4696,7 +4696,7 @@ button.sidebar-logout:hover {
   }
 }
 
-* Final scholarship popup refinements */
+/* Final scholarship popup refinements */
 .scholarship-modal {
 position: relative;
 max-height: 85vh;
